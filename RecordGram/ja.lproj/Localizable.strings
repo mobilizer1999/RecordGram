@@ -1,0 +1,633 @@
+/* Notification */
+" commented on your song!" = "commented on your song!";
+
+/* Notification */
+" commented on your video!" = "commented on your video!";
+
+/* Notification */
+" liked your beat!" = "liked your beat!";
+
+/* Notification */
+" liked your comment!" = "liked your comment!";
+
+/* Notification */
+" liked your song!" = "liked your song!";
+
+/* Notification */
+" liked your video!" = "liked your video!";
+
+/* Notification */
+" mentioned you on a song comment!" = "mentioned you on a song comment!";
+
+/* Notification */
+" mentioned you on a song!" = "mentioned you on a song!";
+
+/* Notification */
+" mentioned you on a video comment!" = "mentioned you on a video comment!";
+
+/* Notification */
+" mentioned you on a video!" = "mentioned you on a video!";
+
+/* Notification */
+" uploaded a song with your beat!" = "uploaded a song with your beat!";
+
+/* Notification */
+" uploaded a video with your beat!" = "uploaded a video with your beat!";
+
+/* Find and Follow */
+"(Skype, Message, Email and LinkedIn etc.)" = "(Skype, Message, Email and LinkedIn etc.)";
+
+/* Find and Follow */
+"%@ Miles, " = "%@ Miles,";
+
+/* Media produced by */
+"%@ produced by %@" = "%1$@ produced by %2$@";
+
+/* Price in Coins */
+"%d COINS" = "%d コイン";
+
+/* Relative date */
+"%d days ago" = "%d days ago";
+
+/* Relative date */
+"%d hours ago" = "%d hours ago";
+
+/* Relative date */
+"%d mins ago" = "%d mins ago";
+
+/* Relative date */
+"%d months ago" = "%d months ago";
+
+/* Relative date */
+"%d secs ago" = "%d secs ago";
+
+/* Relative date */
+"%d weeks ago" = "%d weeks ago";
+
+/* Relative date */
+"%d years ago" = "%d years ago";
+
+/* Relative date */
+"1 day ago" = "1 day ago";
+
+/* Relative date */
+"1 hour ago" = "1 hour ago";
+
+/* Relative date */
+"1 min ago" = "1 min ago";
+
+/* Relative date */
+"1 month ago" = "1 month ago";
+
+/* Relative date */
+"1 week ago" = "1 week ago";
+
+/* Relative date */
+"1 year ago" = "1 year ago";
+
+/* Find and Follow */
+"5 Miles" = "5 Miles";
+
+/* Find and Follow */
+"10 Miles" = "10 Miles";
+
+/* Find and Follow */
+"20 Miles" = "20 Miles";
+
+/* Find and Follow */
+"50 Miles" = "50 Miles";
+
+/* Media privacy */
+"Add to Community" = "Add to Community";
+
+/* Menu */
+"Affiliation" = "加入";
+
+/* Genre */
+"AfroBeat" = "AfroBeat";
+
+/* Dialog option
+   Dialog title */
+"Alert!" = "Alert!";
+
+/* All Producers */
+"ALL PRODUCERS (A-Z)" = "プロデューサ（A-Z）";
+
+/* Dialog title */
+"Are you sure you want to block %@?" = "Are you sure you want to block %@?";
+
+/* Dialog message */
+"Are you sure you want to deactivate your profile?" = "Are you sure you want to deactivate your profile?";
+
+/* Filter name */
+"Artistic" = "Artistic";
+
+/* AR Profile */
+"ARTISTS" = "ARTISTS";
+
+/* Filter name */
+"Black N White" = "Black N White";
+
+/* User action */
+"BLOCK" = "BLOCK";
+
+/* Dialog option */
+"Block this User" = "Block this User";
+
+/* User action */
+"Block User" = "ユーザーをブロックする";
+
+/* Genre */
+"Bollywood" = "Bollywood";
+
+/* Dialog option */
+"Camera" = "Camera";
+
+/* Dialog
+   Dialog action
+   Dialog option */
+"Cancel" = "キャンセル";
+
+/* Share */
+"Check this out. It was made on @Cre8tor by %@." = "Check this out. It was made on @Cre8tor by %@.";
+
+/* Studio */
+"Choose a Beat" = "ビートを選択します。";
+
+/* Notifications */
+"Clear all Notifications" = "Clear all Notifications";
+
+/* Recent search */
+"Clear Recent Search History" = "Clear Recent Search History";
+
+/* Menu */
+"Contact Us" = "お問い合わせ";
+
+/* Genre
+   Menu */
+"Contests" = "コンテスト";
+
+/* Contests */
+"CONTESTS" = "コンテスト";
+
+/* Studio */
+"Could not record..." = "Could not record...";
+
+/* Filter name
+   Genre */
+"Country" = "Country";
+
+/* App name */
+"Cre8tor" = "Cre8tor";
+
+/* Menu */
+"Cre8tor Apps" = "Cre8torアプリ";
+
+/* Find and Follow */
+"Currently you are invisible other nearby users. \n Do you want make yourself visible in nearby search ?" = "Currently you are invisible other nearby users. \n Do you want make yourself visible in nearby search ?";
+
+/* Find and Follow */
+"Currently you are visible to other nearby users. \n Do you want make yourself invisible in nearby search ?" = "Currently you are visible to other nearby users. \n Do you want make yourself invisible in nearby search ?";
+
+/* Contest */
+"day" = "day";
+
+/* Contest */
+"days" = "days";
+
+/* Dialog action */
+"Delete" = "Delete";
+
+/* Delete media */
+"Delete Song" = "曲を削除します";
+
+/* Delete media */
+"Delete Video" = "Delete Video";
+
+/* Genre */
+"Electro" = "Electro";
+
+/* Stage name */
+"Email" = "Email";
+
+/* Contest */
+"Ended %@ ago" = "Ended %@ ago";
+
+/* Contest */
+"Ends in %@" = "Ends in %@";
+
+/* Error title */
+"Error" = "Error";
+
+/* API error */
+"Error trying to follow." = "Error trying to follow.";
+
+/* Dialog title */
+"Event Image" = "Event Image";
+
+/* Intro */
+"Exit Tour" = "出口";
+
+/* Find and Follow
+   Share activity */
+"Facebook" = "Facebook";
+
+/* Fans */
+"Fans" = "ファン";
+
+/* AR Profile */
+"FANS (%d)" = "ファン (%d)";
+
+/* Find and Follow */
+"Find and Follow" = "見つけてフォローする";
+
+/* Find and Follow */
+"Find and Follow Facebook Friends" = "Find and Follow Facebook Friends";
+
+/* Menu */
+"Find Friends" = "友達を探す";
+
+/* User action */
+"FOLLOW" = "フォローする";
+
+/* Producer followers */
+"Followers: 0" = "Followers: 0";
+
+/* Following */
+"Following" = "以下";
+
+/* Price in Coins */
+"FREE" = "無料";
+
+/* Trim Audio */
+"Get Ready to Shoot your New Music Video!" = "あなたの新しいミュージックビデオを撮影する準備をしてください！";
+
+/* Studio */
+"Great Work! We are Saving your New Song!" = "素晴らしい仕事！私たちはあなたの新しい曲を保存しています！";
+
+/* Find and Follow */
+"Grow Your Friend Circle" = "Grow Your Friend Circle";
+
+/* Genre */
+"Hip Hop" = "Hip Hop";
+
+/* Home */
+"HOME" = "家";
+
+/* Contest */
+"hour" = "hour";
+
+/* Contest */
+"hours" = "hours";
+
+/* How to Videos
+   Menu */
+"How To Videos" = "どのようにビデオ";
+
+/* Dialog message */
+"If you block, you will not see any post from %@" = "If you block, you will not see any post from %@";
+
+/* Share activity */
+"Instagram" = "Instagram";
+
+/* Error message */
+"Instagram App is not available in your device, please install it first." = "Instagram App is not available in your device, please install it first.";
+
+/* Find and Follow */
+"Invisible to Other Users" = "Invisible to Other Users";
+
+/* Find and Follow */
+"Invitation Sent" = "Invitation Sent";
+
+/* Find and Follow */
+"Invite Facebook Friends" = "Invite Facebook Friends";
+
+/* Find and Follow */
+"Invite or Follow Your Contacts" = "Invite or Follow Your Contacts";
+
+/* Find and Follow */
+"Invite to Join" = "Invite to Join";
+
+/* Contest
+   Relative date */
+"Just now" = "Just now";
+
+/* Genre */
+"Latin" = "Latin";
+
+/* Intro */
+"Let's Have a Tour!" = "Let's Have a Tour!";
+
+/* Dialog option */
+"Library" = "Library";
+
+/* Song recording
+   Studio */
+"Looks good! Let us Save it Now!" = "素晴らしいよ！今すぐ保存しましょう！";
+
+/* Lyrics */
+"Lyrics By Cre8tor App" = "Lyrics By Cre8tor App";
+
+/* Lyrics */
+"Lyrics deleted" = "Lyrics deleted";
+
+/* Media privacy */
+"Make Private" = "プライベートください";
+
+/* Stage */
+"MAKE YOUR SONGS & VIDEOS PUBLIC AND \n GET ON THE STAGE NOW" = "あなたの曲/動画を公開し、ステージ上で取得";
+
+/* Coins */
+"Making Coins Move!" = "コインを動かす！";
+
+/* Menu
+   Messages */
+"Messages" = "メッセージ";
+
+/* Contest */
+"minute" = "minute";
+
+/* Contest */
+"minutes" = "minutes";
+
+/* Contest */
+"month" = "month";
+
+/* Contest */
+"months" = "months";
+
+/* Music */
+"MUSIC" = "音楽";
+
+/* My beats */
+"My Beats" = "マイビート";
+
+/* My beats */
+"MY BEATS" = "マイビート";
+
+/* Lyrics */
+"My Lyrics" = "私の歌詞";
+
+/* Menu */
+"My Studio" = "私のスタジオ";
+
+/* Lyrics
+   Studio */
+"Name Your Lyrics" = "あなたの歌詞に名前を付けます";
+
+/* Find and Follow */
+"Nearby" = "Nearby";
+
+/* Coins */
+"Nice Choice!" = "良い選択！";
+
+/* Dialog option */
+"No" = "No";
+
+/* Dialog option */
+"NO" = "NO";
+
+/* Contests */
+"No active contests are available!" = "No active contests are available!";
+
+/* Studio */
+"No Headphones, No Problem: Record your vocals as if you are on a phone call." = "ヘッドフォンなし、問題ありません。電話のようにボーカルを録音します。";
+
+/* Lyrics */
+"No lyrics are available!" = "No lyrics are available!";
+
+/* Filter name */
+"Normal" = "ノーマル";
+
+/* Notification Settings */
+"Notification Settings" = "通知設定";
+
+/* Menu
+   Notifications */
+"Notifications" = "通知";
+
+/* Dialog action
+   Dialog option
+   Error confirmation */
+"OK" = "OK";
+
+/* Dialog title */
+"Oops!" = "Oops!";
+
+/* Dialog option */
+"Open Settings" = "Open Settings";
+
+/* Dialog title */
+"Ops!" = "Ops!";
+
+/* Dialog message */
+"Passwords do not match." = "Passwords do not match.";
+
+/* AR Profile */
+"PERSONAL CONTENT" = "PERSONAL CONTENT";
+
+/* Stage name */
+"Phone" = "Phone";
+
+/* Find and Follow */
+"Phone Contacts" = "Phone Contacts";
+
+/* Form validation */
+"Please choose a valid username before continuing." = "Please choose a valid username before continuing.";
+
+/* Dialog message */
+"Please enable access to your contacts" = "Please enable access to your contacts";
+
+/* Form validation */
+"Please enter a title for your song" = "Please enter a title for your song";
+
+/* Form validation */
+"Please enter a title for your video" = "Please enter a title for your video";
+
+/* Form validation */
+"Please enter a valid title for your song" = "Please enter a valid title for your song";
+
+/* Form validation */
+"Please enter a valid title for your video" = "Please enter a valid title for your video";
+
+/* Studio */
+"Please select a beat first." = "Please select a beat first.";
+
+/* Genre */
+"Pop" = "Pop";
+
+/* Capture Video */
+"Preparing your Awesome Video!" = "あなたの素晴らしいビデオを準備する！";
+
+/* Login
+   Menu
+   Privacy Policy */
+"Privacy Policy" = "プライバシーポリシー";
+
+/* Trim audio */
+"prod by %@" = "プロデュースする %@";
+
+/* Download media */
+"Prod by: %@" = "プロデュースする %@";
+
+/* Recent search */
+"Producer" = "Producer";
+
+/* Genre */
+"R&B" = "R&B";
+
+/* Find and Follow */
+"Radius is " = "Radius is";
+
+/* Find and Follow */
+"Random Invite" = "Random Invite";
+
+/* Menu */
+"Rate The App" = "アプリを評価";
+
+/* Recent search */
+"Recent Search History" = "Recent Search History";
+
+/* Genre */
+"Reggae" = "Reggae";
+
+/* Dialog option */
+"Report this song" = "Report this song";
+
+/* Menu */
+"Save" = "保存する";
+
+/* AR Profile */
+"SCOUT CONTENT" = "SCOUT CONTENT";
+
+/* Contest */
+"second" = "second";
+
+/* Contest */
+"seconds" = "seconds";
+
+/* Coins */
+"Setting Up the Store." = "Setting Up the Store.";
+
+/* Menu */
+"Share The App" = "アプリを共有する";
+
+/* Menu */
+"Sign Out" = "ログアウト";
+
+/* Recent search */
+"Song" = "Song";
+
+/* Stage name */
+"Stage Name" = "Stage Name";
+
+/* Studio */
+"STUDIO" = "STUDIO";
+
+/* Filter name */
+"Sunrise" = "Sunrise";
+
+/* Coins */
+"Syncing Coins!" = "コインの同期！";
+
+/* Find and Follow */
+"Tap to change" = "Tap to change";
+
+/* Login */
+"Terms & Conditions" = "ご利用規約";
+
+/* Menu
+   Terms of Service */
+"Terms Of Service" = "利用規約";
+
+/* Studio */
+"The mic is not ready... please try again." = "The mic is not ready... please try again.";
+
+/* Stage */
+"THE STAGE" = "THE STAGE";
+
+/* Share */
+"Try this amazing app on the App Store!" = "Try this amazing app on the App Store!";
+
+/* Find and Follow */
+"Twitter" = "Twitter";
+
+/* Save media hint */
+"Type the name of your song here" = "ここにあなたの歌の名前を入力します";
+
+/* Save media hint */
+"Type the name of your video here" = "Type the name of your video here";
+
+/* User action */
+"UNBLOCK" = "ブロックを解除";
+
+/* User action */
+"Unblock User" = "ユーザをブロック解除する";
+
+/* User action */
+"UNFOLLOW" = "もうフォローしないでください";
+
+/* Find and Follow */
+"Unknow error..." = "Unknow error...";
+
+/* Unknown user
+   Unknown username */
+"Unknown" = "Unknown";
+
+/* Unlock beat */
+"Unlock for %d Coins" = "コインのためにロックを解除 %d";
+
+/* Stage name */
+"UPDATE EMAIL" = "UPDATE EMAIL";
+
+/* Stage name */
+"UPDATE PHONE" = "UPDATE PHONE";
+
+/* Update media */
+"Update Song Info" = "曲の情報を更新";
+
+/* Stage name */
+"UPDATE STAGE NAME" = "アップデートステージ名";
+
+/* Update media */
+"Update Video Info" = "Update Video Info";
+
+/* Recent search */
+"User" = "User";
+
+/* Recent search */
+"Video" = "Video";
+
+/* Success message */
+"Video Saved" = "Video Saved";
+
+/* Error message */
+"Video Saving Failed" = "Video Saving Failed";
+
+/* Find and Follow */
+"Visible to Other Users" = "Visible to Other Users";
+
+/* Menu */
+"Wallet" = "Wallet";
+
+/* Filter name */
+"Winter" = "Winter";
+
+/* Contest */
+"year" = "year";
+
+/* Contest */
+"years" = "years";
+
+/* Dialog option */
+"Yes" = "Yes";
+
+/* Dialog option */
+"YES" = "YES";
+
+/* Lyrics */
+"You haven't saved any lyrics yet." = "You haven't saved any lyrics yet.";
+
+/* Studio */
+"You must wear your headphones in order to monitor." = "You must wear your headphones in order to monitor.";
+

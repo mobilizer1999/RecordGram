@@ -1,0 +1,54 @@
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UILabel"; text = "SHARE SONG"; ObjectID = "5mr-Ty-xEB"; */
+"5mr-Ty-xEB.text" = "노래 공유";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "6nC-0l-mKz"; */
+"6nC-0l-mKz.title" = "";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "게시자";
+
+/* Class = "UILabel"; text = "PLAY SONG"; ObjectID = "e9m-EC-jKv"; */
+"e9m-EC-jKv.text" = "노래 재생";
+
+/* Class = "UILabel"; text = "User Info"; ObjectID = "hMW-O0-nwJ"; */
+"hMW-O0-nwJ.text" = "User Info";
+
+/* Class = "UINavigationItem"; title = "@username"; ObjectID = "jVZ-FT-SwZ"; */
+"jVZ-FT-SwZ.title" = "@사용자 이름";
+
+/* Class = "UIButton"; normalTitle = "VIDEOS"; ObjectID = "K1I-52-EDu"; */
+"K1I-52-EDu.normalTitle" = "비디오";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "제작자";
+
+/* Class = "UIButton"; normalTitle = "SONGS"; ObjectID = "NJo-sg-Fyt"; */
+"NJo-sg-Fyt.normalTitle" = "노래";
+
+/* Class = "UILabel"; text = "FANS"; ObjectID = "oMt-Jh-P7Y"; */
+"oMt-Jh-P7Y.text" = "팬";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "Pqg-kC-rUQ"; */
+"Pqg-kC-rUQ.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "FOLLOW"; ObjectID = "Q65-cz-xdS"; */
+"Q65-cz-xdS.normalTitle" = "팔로우";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UILabel"; text = "User Info"; ObjectID = "y0P-hy-PFw"; */
+"y0P-hy-PFw.text" = "User Info";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "zeQ-qv-ZLF"; */
+"zeQ-qv-ZLF.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "FOLLOWING"; ObjectID = "ZI3-wY-uMF"; */
+"ZI3-wY-uMF.text" = "팔로우 중";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

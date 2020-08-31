@@ -1,0 +1,27 @@
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "によって";
+
+/* Class = "UIButton"; normalTitle = "MAKE YOUR SONGS & VIDEOS PUBLIC "; ObjectID = "eAe-0o-P3J"; */
+"eAe-0o-P3J.normalTitle" = "MAKE YOUR SONGS & VIDEOS PUBLIC";
+
+/* Class = "UILabel"; text = "featured"; ObjectID = "guP-G5-VIf"; */
+"guP-G5-VIf.text" = "おすすめ";
+
+/* Class = "UIButton"; normalTitle = "SONGS"; ObjectID = "MeD-pM-SDf"; */
+"MeD-pM-SDf.normalTitle" = "歌";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "プロデュースする";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UIButton"; normalTitle = "VIDEOS"; ObjectID = "Yg3-AI-Pj0"; */
+"Yg3-AI-Pj0.normalTitle" = "ビデオ";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

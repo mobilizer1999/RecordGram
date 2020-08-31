@@ -1,0 +1,99 @@
+/* Class = "UINavigationItem"; title = "Comments"; ObjectID = "1ig-VD-lLf"; */
+"1ig-VD-lLf.title" = "注釈";
+
+/* Class = "UIButton"; normalTitle = "Update Song Info"; ObjectID = "2ea-xU-LS1"; */
+"2ea-xU-LS1.normalTitle" = "曲の情報を更新";
+
+/* Class = "UIButton"; normalTitle = "(0)"; ObjectID = "2K2-Zt-BGN"; */
+"2K2-Zt-BGN.normalTitle" = "(0)";
+
+/* Class = "UIButton"; normalTitle = "!"; ObjectID = "3dO-4h-tWd"; */
+"3dO-4h-tWd.normalTitle" = "!";
+
+/* Class = "UILabel"; text = "Report as an Abuse"; ObjectID = "4TX-3e-q0h"; */
+"4TX-3e-q0h.text" = "Report as an Abuse";
+
+/* Class = "UIButton"; normalTitle = "(0)"; ObjectID = "6Zf-dI-tWu"; */
+"6Zf-dI-tWu.normalTitle" = "(0)";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "309-y3-CYQ"; */
+"309-y3-CYQ.text" = "Song Title";
+
+/* Class = "UILabel"; text = "A note about estimatedHeight: This is just that, an estimation. If your estimated value varies greatly from the actual height, you might see some jumpiness while scrolling, as iOS expands or collapses the cell to its proper height. If you need granular control over the estimated height, use the UITableView Datasource method "; ObjectID = "AcX-Km-AwA"; */
+"AcX-Km-AwA.text" = "A note about estimatedHeight: This is just that, an estimation. If your estimated value varies greatly from the actual height, you might see some jumpiness while scrolling, as iOS expands or collapses the cell to its proper height. If you need granular control over the estimated height, use the UITableView Datasource method";
+
+/* Class = "UIButton"; normalTitle = "Add More Vocals"; ObjectID = "arX-yR-uwc"; */
+"arX-yR-uwc.normalTitle" = "より多くのボーカルを追加";
+
+/* Class = "UIButton"; normalTitle = "NICO"; ObjectID = "bLf-ci-qeV"; */
+"bLf-ci-qeV.normalTitle" = "NICO";
+
+/* Class = "UIButton"; normalTitle = "Add To Community"; ObjectID = "cEf-W9-OMd"; */
+"cEf-W9-OMd.normalTitle" = "Add To Community";
+
+/* Class = "UILabel"; text = "@hprione"; ObjectID = "cOg-7f-1EQ"; */
+"cOg-7f-1EQ.text" = "@hprione";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dry-Hy-eBH"; */
+"Dry-Hy-eBH.text" = "Label";
+
+/* Class = "UILabel"; text = "PARADISE CHALLENGE"; ObjectID = "i6u-2s-pKw"; */
+"i6u-2s-pKw.text" = "PARADISE CHALLENGE";
+
+/* Class = "UIButton"; normalTitle = "(0)"; ObjectID = "lGe-F3-4dP"; */
+"lGe-F3-4dP.normalTitle" = "(0)";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "Mne-Lp-GUg"; */
+"Mne-Lp-GUg.text" = "プロデュースする";
+
+/* Class = "UIButton"; normalTitle = "Update Song/Video Info"; ObjectID = "nBA-gH-65q"; */
+"nBA-gH-65q.normalTitle" = "Update Song/Video Info";
+
+/* Class = "UIButton"; normalTitle = "Delete Song"; ObjectID = "NFS-SX-9pE"; */
+"NFS-SX-9pE.normalTitle" = "曲を削除します";
+
+/* Class = "UILabel"; text = "Report This Song!"; ObjectID = "nUQ-lP-A6v"; */
+"nUQ-lP-A6v.text" = "Report This Song!";
+
+/* Class = "UILabel"; text = "A description of the song."; ObjectID = "OFL-Cb-Te7"; */
+"OFL-Cb-Te7.text" = "A description of the song.";
+
+/* Class = "UIButton"; normalTitle = "(0)"; ObjectID = "q8w-sf-NcZ"; */
+"q8w-sf-NcZ.normalTitle" = "(0)";
+
+/* Class = "UIButton"; normalTitle = "(0)"; ObjectID = "qho-Tz-wpw"; */
+"qho-Tz-wpw.normalTitle" = "(0)";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "reH-28-1tb"; */
+"reH-28-1tb.text" = "によって";
+
+/* Class = "UIButton"; normalTitle = "NOYDB"; ObjectID = "TQZ-39-aH6"; */
+"TQZ-39-aH6.normalTitle" = "NOYDB";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TwV-L3-F9x"; */
+"TwV-L3-F9x.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "Load Original Song/Video"; ObjectID = "UH2-k1-JOX"; */
+"UH2-k1-JOX.normalTitle" = "Load Original Song/Video";
+
+/* Class = "UIButton"; normalTitle = "Delete Song/Video"; ObjectID = "uUB-h1-zPE"; */
+"uUB-h1-zPE.normalTitle" = "Delete Song/Video";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "VPe-xY-uk5"; */
+"VPe-xY-uk5.normalTitle" = "Report";
+
+/* Class = "UIButton"; normalTitle = "Make Public"; ObjectID = "WhB-fE-zyW"; */
+"WhB-fE-zyW.normalTitle" = "公表します";
+
+/* Class = "UIButton"; selectedTitle = "Make Private"; ObjectID = "WhB-fE-zyW"; */
+"WhB-fE-zyW.selectedTitle" = "プライベートください";
+
+/* Class = "UILabel"; text = "Report as Porn"; ObjectID = "Xl2-Sq-Nas"; */
+"Xl2-Sq-Nas.text" = "Report as Porn";
+
+/* Class = "UIButton"; normalTitle = "Save To Camera Roll"; ObjectID = "xWI-B5-H26"; */
+"xWI-B5-H26.normalTitle" = "Save To Camera Roll";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "zb6-T2-URA"; */
+"zb6-T2-URA.normalTitle" = "閉じる";
+

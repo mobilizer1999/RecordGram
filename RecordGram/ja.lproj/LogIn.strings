@@ -1,0 +1,24 @@
+/* Class = "UIButton"; normalTitle = "Login with Phone"; ObjectID = "bGP-bH-ncB"; */
+"bGP-bH-ncB.normalTitle" = "電話を使用してログイン";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "blV-lE-07L"; */
+"blV-lE-07L.normalTitle" = "Privacy Policy";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "BRD-za-Lnn"; */
+"BRD-za-Lnn.placeholder" = "ユーザー名";
+
+/* Class = "UILabel"; text = "Production Marketplace and  Recording Studio"; ObjectID = "i92-0o-sRV"; */
+"i92-0o-sRV.text" = "生産マーケットプレイス、レコーディングスタジオ";
+
+/* Class = "UILabel"; text = "Username should be unique"; ObjectID = "NMk-yk-cah"; */
+"NMk-yk-cah.text" = "ユーザー名は一意である必要があります";
+
+/* Class = "UIButton"; normalTitle = "Login with Email"; ObjectID = "vhV-sg-FNU"; */
+"vhV-sg-FNU.normalTitle" = "メールでログイン";
+
+/* Class = "UILabel"; text = "Set your username"; ObjectID = "vwa-32-BzW"; */
+"vwa-32-BzW.text" = "ユーザー名を設定します。";
+
+/* Class = "UIButton"; normalTitle = "Set Username"; ObjectID = "yLA-dC-tBs"; */
+"yLA-dC-tBs.normalTitle" = "設定するユーザー名";
+

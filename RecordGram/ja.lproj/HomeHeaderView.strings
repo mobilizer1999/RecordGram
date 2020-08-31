@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "FEATURED"; ObjectID = "0y0-xU-NYc"; */
+"0y0-xU-NYc.text" = "おすすめ";
+
+/* Class = "UIButton"; normalTitle = "SONGS"; ObjectID = "oYU-g7-2fI"; */
+"oYU-g7-2fI.normalTitle" = "歌";
+
+/* Class = "UIButton"; normalTitle = "VIDEOS"; ObjectID = "PIB-yN-H9y"; */
+"PIB-yN-H9y.normalTitle" = "ビデオ";
+
+/* Class = "UILabel"; text = "ARTISTS YOU FOLLOW"; ObjectID = "qxO-Q1-jXP"; */
+"qxO-Q1-jXP.text" = "あなたが続くアーティスト";
+

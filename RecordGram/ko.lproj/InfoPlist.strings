@@ -1,0 +1,21 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Cre8tor";
+
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Turn on your camera so you can shoot your music videos.";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "We require access to your contacts so we can find $(PRODUCT_NAME) users you know.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Allow Location Services to $(PRODUCT_NAME) to use your Current Location";
+
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Turn on your mic so you can record your vocals.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Allow $(PRODUCT_NAME) to access your photographs.";
+

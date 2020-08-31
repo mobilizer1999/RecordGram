@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Lyrics"; ObjectID = "dn6-Eb-UDi"; */
+"dn6-Eb-UDi.text" = "가사";
+
+/* Class = "UILabel"; text = "Recent Videos"; ObjectID = "ksh-8i-k1n"; */
+"ksh-8i-k1n.text" = "최신 영상";
+
+/* Class = "UILabel"; text = "Beats"; ObjectID = "oY0-46-i4j"; */
+"oY0-46-i4j.text" = "비트";
+
+/* Class = "UILabel"; text = "Recent Songs"; ObjectID = "T3N-T5-XhH"; */
+"T3N-T5-XhH.text" = "최신 노래";
+
+/* Class = "UILabel"; text = "All Producers"; ObjectID = "uqO-M6-Qc8"; */
+"uqO-M6-Qc8.text" = "모든 제작자";
+

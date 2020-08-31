@@ -1,0 +1,51 @@
+/* Class = "UIButton"; normalTitle = "MY SONGS"; ObjectID = "0jn-o2-2dm"; */
+"0jn-o2-2dm.normalTitle" = "내 노래";
+
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UILabel"; text = "UPDATE SONG INFO"; ObjectID = "5I0-Dg-UhR"; */
+"5I0-Dg-UhR.text" = "노래 정보 업데이트";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "게시자";
+
+/* Class = "UILabel"; text = "DELETE SONG"; ObjectID = "b38-hZ-U6Z"; */
+"b38-hZ-U6Z.text" = "노래 삭제";
+
+/* Class = "UILabel"; text = "featured"; ObjectID = "fQu-4y-lwW"; */
+"fQu-4y-lwW.text" = "특별";
+
+/* Class = "UINavigationItem"; title = "CREATIONS"; ObjectID = "IrE-q3-Aoh"; */
+"IrE-q3-Aoh.title" = "창조";
+
+/* Class = "UILabel"; text = "ADD MORE VOCALS"; ObjectID = "IuR-ok-LXF"; */
+"IuR-ok-LXF.text" = "더 많은 보컬 추가하기";
+
+/* Class = "UILabel"; text = "SHOOT A VIDEO TO THIS SONG"; ObjectID = "kVB-AW-eI6"; */
+"kVB-AW-eI6.text" = "이 노래의 영상 촬영하기";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "제작자";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Par-II-0SX"; */
+"Par-II-0SX.title" = "";
+
+/* Class = "UILabel"; text = "MAKE PUBLIC"; ObjectID = "TZM-fA-yPU"; */
+"TZM-fA-yPU.text" = "공개로 설정";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UIButton"; normalTitle = "MY VIDEOS"; ObjectID = "yb0-bR-Chh"; */
+"yb0-bR-Chh.normalTitle" = "내 영상";
+
+/* Class = "UILabel"; text = "SHARE THIS SONG"; ObjectID = "yYO-gL-34X"; */
+"yYO-gL-34X.text" = "이 노래 공유하기";
+
+/* Class = "UILabel"; text = "PLAY SONG"; ObjectID = "zhl-Pf-VOe"; */
+"zhl-Pf-VOe.text" = "노래 재생";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

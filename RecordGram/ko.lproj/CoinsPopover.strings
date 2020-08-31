@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "$1.99"; ObjectID = "06e-pz-AGS"; */
+"06e-pz-AGS.text" = "$1.99";
+
+/* Class = "UILabel"; text = "Get 1.7K Coins : "; ObjectID = "9Eo-cu-52u"; */
+"9Eo-cu-52u.text" = "Get 1.7K Coins :";
+
+/* Class = "UILabel"; text = "Get 675 Coins : "; ObjectID = "e3K-i0-be9"; */
+"e3K-i0-be9.text" = "Get 675 Coins :";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "F1A-8f-5Sn"; */
+"F1A-8f-5Sn.text" = "0";
+
+/* Class = "UILabel"; text = "COINS IN WALLET : "; ObjectID = "gO4-nv-1bR"; */
+"gO4-nv-1bR.text" = "지갑에 있는 코인:";
+
+/* Class = "UILabel"; text = "$49.99"; ObjectID = "HLK-xS-hQQ"; */
+"HLK-xS-hQQ.text" = "$49.99";
+
+/* Class = "UILabel"; text = "$9.99"; ObjectID = "nBq-UM-xcW"; */
+"nBq-UM-xcW.text" = "$9.99";
+
+/* Class = "UILabel"; text = "Get 8K Coins : "; ObjectID = "Ob7-lw-Ger"; */
+"Ob7-lw-Ger.text" = "Get 8K Coins :";
+
+/* Class = "UILabel"; text = "$4.99"; ObjectID = "PQM-ig-WSu"; */
+"PQM-ig-WSu.text" = "$4.99";
+
+/* Class = "UILabel"; text = "Sync your coins if you are using this app in multiple devices with the same account."; ObjectID = "Rba-kP-CBW"; */
+"Rba-kP-CBW.text" = "한 계정으로 여러 장치에서 이 앱을 사용하는 경우, Cre8tor 서버를 사용하여 코인을 동기화하세요.";
+
+/* Class = "UILabel"; text = "Get 250 Coins : "; ObjectID = "she-SR-YYj"; */
+"she-SR-YYj.text" = "Get 250 Coins :";
+
+/* Class = "UILabel"; text = "Sync Coins"; ObjectID = "yck-l2-2Ee"; */
+"yck-l2-2Ee.text" = "코인 동기화";
+

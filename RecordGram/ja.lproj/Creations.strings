@@ -1,0 +1,51 @@
+/* Class = "UIButton"; normalTitle = "MY SONGS"; ObjectID = "0jn-o2-2dm"; */
+"0jn-o2-2dm.normalTitle" = "私の歌";
+
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UILabel"; text = "UPDATE SONG INFO"; ObjectID = "5I0-Dg-UhR"; */
+"5I0-Dg-UhR.text" = "曲の情報を更新";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "によって";
+
+/* Class = "UILabel"; text = "DELETE SONG"; ObjectID = "b38-hZ-U6Z"; */
+"b38-hZ-U6Z.text" = "曲を削除します";
+
+/* Class = "UILabel"; text = "featured"; ObjectID = "fQu-4y-lwW"; */
+"fQu-4y-lwW.text" = "おすすめ";
+
+/* Class = "UINavigationItem"; title = "CREATIONS"; ObjectID = "IrE-q3-Aoh"; */
+"IrE-q3-Aoh.title" = "CREATIONS";
+
+/* Class = "UILabel"; text = "ADD MORE VOCALS"; ObjectID = "IuR-ok-LXF"; */
+"IuR-ok-LXF.text" = "より多くのボーカルを追加";
+
+/* Class = "UILabel"; text = "SHOOT A VIDEO TO THIS SONG"; ObjectID = "kVB-AW-eI6"; */
+"kVB-AW-eI6.text" = "SHOOT A VIDEO TO THIS SONG";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "プロデュースする";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Par-II-0SX"; */
+"Par-II-0SX.title" = "";
+
+/* Class = "UILabel"; text = "MAKE PUBLIC"; ObjectID = "TZM-fA-yPU"; */
+"TZM-fA-yPU.text" = "公表します";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UIButton"; normalTitle = "MY VIDEOS"; ObjectID = "yb0-bR-Chh"; */
+"yb0-bR-Chh.normalTitle" = "自分の動画";
+
+/* Class = "UILabel"; text = "SHARE THIS SONG"; ObjectID = "yYO-gL-34X"; */
+"yYO-gL-34X.text" = "この曲を共有します";
+
+/* Class = "UILabel"; text = "PLAY SONG"; ObjectID = "zhl-Pf-VOe"; */
+"zhl-Pf-VOe.text" = "PLAY SONG";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

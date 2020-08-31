@@ -1,0 +1,147 @@
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "0gB-2J-DcZ"; */
+"0gB-2J-DcZ.text" = "제작자";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "0uQ-fw-R3z"; */
+"0uQ-fw-R3z.text" = "Genre";
+
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UILabel"; text = "featured"; ObjectID = "1pY-8E-DxE"; */
+"1pY-8E-DxE.text" = "특별";
+
+/* Class = "UIButton"; normalTitle = "PERSONAL CONTENT"; ObjectID = "5DM-l9-dav"; */
+"5DM-l9-dav.normalTitle" = "PERSONAL CONTENT";
+
+/* Class = "UIButton"; selectedTitle = "Scout Content"; ObjectID = "5DM-l9-dav"; */
+"5DM-l9-dav.selectedTitle" = "Scout Content";
+
+/* Class = "UIButton"; normalTitle = "FANS"; ObjectID = "6nd-Bs-Yuz"; */
+"6nd-Bs-Yuz.normalTitle" = "팬";
+
+/* Class = "UILabel"; text = "(0)"; ObjectID = "6y2-pj-VTN"; */
+"6y2-pj-VTN.text" = "(0)";
+
+/* Class = "UIButton"; normalTitle = "SHOOT A VIDEO"; ObjectID = "7Q0-SQ-uGU"; */
+"7Q0-SQ-uGU.normalTitle" = "영상 촬영";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "게시자";
+
+/* Class = "UILabel"; text = "SONG TITLE"; ObjectID = "8z5-Zu-YEg"; */
+"8z5-Zu-YEg.text" = "SONG TITLE";
+
+/* Class = "UIButton"; normalTitle = "ADD VOCALS TO BEAT"; ObjectID = "9hM-dK-Gcc"; */
+"9hM-dK-Gcc.normalTitle" = "ADD VOCALS TO BEAT";
+
+/* Class = "UIButton"; normalTitle = "MY BEATS"; ObjectID = "BWw-q6-2Dn"; */
+"BWw-q6-2Dn.normalTitle" = "나의 비트";
+
+/* Class = "UIButton"; normalTitle = "Download Beat"; ObjectID = "C9k-xF-HuD"; */
+"C9k-xF-HuD.normalTitle" = "비트 다운로드";
+
+/* Class = "UILabel"; text = "DOWNLOAD COMPLETE!\nWHAT WOULD YOU LIKE TO DO?"; ObjectID = "CB5-h9-OWM"; */
+"CB5-h9-OWM.text" = "다운로드를 완료했습니다!\n무엇을 하고 싶으신가요?";
+
+/* Class = "UINavigationItem"; title = "MY BEATS"; ObjectID = "CC4-7n-52v"; */
+"CC4-7n-52v.title" = "나의 비트";
+
+/* Class = "UILabel"; text = "Producer name"; ObjectID = "CVU-y7-FcQ"; */
+"CVU-y7-FcQ.text" = "Producer name";
+
+/* Class = "UILabel"; text = "Paradise"; ObjectID = "df4-zD-1bc"; */
+"df4-zD-1bc.text" = "Paradise";
+
+/* Class = "UILabel"; text = "1. Set Start Point"; ObjectID = "DhE-gd-vak"; */
+"DhE-gd-vak.text" = "1. 시작점 시작";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "eh4-ar-NY8"; */
+"eh4-ar-NY8.text" = "00:00";
+
+/* Class = "UILabel"; text = "SHARE SONG"; ObjectID = "Evy-8c-59Y"; */
+"Evy-8c-59Y.text" = "노래 공유";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "GMz-g6-4SU"; */
+"GMz-g6-4SU.text" = "2.";
+
+/* Class = "UIButton"; normalTitle = "Shoot a Video"; ObjectID = "hO8-KD-iya"; */
+"hO8-KD-iya.normalTitle" = "영상 촬영";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "iXT-A3-JaR"; */
+"iXT-A3-JaR.text" = "제작자";
+
+/* Class = "UILabel"; text = "PLAY SONG"; ObjectID = "JmI-zR-18W"; */
+"JmI-zR-18W.text" = "노래 재생";
+
+/* Class = "UILabel"; text = "prod by BLACKOUT"; ObjectID = "jmS-N3-MI0"; */
+"jmS-N3-MI0.text" = "제작자 BLACKOUT";
+
+/* Class = "UILabel"; text = "Producer name"; ObjectID = "kCI-t5-EAA"; */
+"kCI-t5-EAA.text" = "Producer name";
+
+/* Class = "UISegmentedControl"; khT-PF-2oM.segmentTitles[0] = "ARTISTS"; ObjectID = "khT-PF-2oM"; */
+"khT-PF-2oM.segmentTitles[0]" = "ARTISTS";
+
+/* Class = "UISegmentedControl"; khT-PF-2oM.segmentTitles[1] = "VIDEOS"; ObjectID = "khT-PF-2oM"; */
+"khT-PF-2oM.segmentTitles[1]" = "비디오";
+
+/* Class = "UISegmentedControl"; khT-PF-2oM.segmentTitles[2] = "SONGS"; ObjectID = "khT-PF-2oM"; */
+"khT-PF-2oM.segmentTitles[2]" = "노래";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "kSB-6j-Xw3"; */
+"kSB-6j-Xw3.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "Add Vocals to Beat"; ObjectID = "lea-8M-gkE"; */
+"lea-8M-gkE.normalTitle" = "Add Vocals to Beat";
+
+/* Class = "UILabel"; text = "Paradise"; ObjectID = "lNc-5O-Ywf"; */
+"lNc-5O-Ywf.text" = "Paradise";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "Lvn-o8-hPM"; */
+"Lvn-o8-hPM.text" = "00:00";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "제작자";
+
+/* Class = "UIButton"; normalTitle = "UNLOCKED BEATS"; ObjectID = "nHs-DD-HdE"; */
+"nHs-DD-HdE.normalTitle" = "UNLOCKED BEATS";
+
+/* Class = "UIButton"; normalTitle = "SHOOT VIDEO"; ObjectID = "OBL-1l-umf"; */
+"OBL-1l-umf.normalTitle" = "영상 촬영";
+
+/* Class = "UILabel"; text = "START POINT"; ObjectID = "PVh-fs-Xvt"; */
+"PVh-fs-Xvt.text" = "시작점";
+
+/* Class = "UILabel"; text = "Mixtape Beatz"; ObjectID = "QAX-ce-ssE"; */
+"QAX-ce-ssE.text" = "Mixtape Beatz";
+
+/* Class = "UIButton"; normalTitle = "FAVORITED BEATS"; ObjectID = "Qmk-O7-AeY"; */
+"Qmk-O7-AeY.normalTitle" = "FAVORITED BEATS";
+
+/* Class = "UILabel"; text = "1."; ObjectID = "rUB-qh-JIJ"; */
+"rUB-qh-JIJ.text" = "1.";
+
+/* Class = "UILabel"; text = "Beat name"; ObjectID = "sGA-WY-zbK"; */
+"sGA-WY-zbK.text" = "Beat name";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "UTZ-kg-ps6"; */
+"UTZ-kg-ps6.text" = "Genre";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "vWg-Un-5hK"; */
+"vWg-Un-5hK.text" = "사용자 이름";
+
+/* Class = "UIButton"; normalTitle = "UNLOCK NEW BEATS"; ObjectID = "vzM-ZH-Exj"; */
+"vzM-ZH-Exj.normalTitle" = "새로운 비트 열기";
+
+/* Class = "UIButton"; selectedTitle = "Cancel"; ObjectID = "vzM-ZH-Exj"; */
+"vzM-ZH-Exj.selectedTitle" = "취소";
+
+/* Class = "UILabel"; text = "Beat name"; ObjectID = "xCg-YC-47v"; */
+"xCg-YC-47v.text" = "Beat name";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

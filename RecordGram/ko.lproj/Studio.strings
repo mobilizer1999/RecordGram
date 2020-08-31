@@ -1,0 +1,60 @@
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "12P-tZ-5BE"; */
+"12P-tZ-5BE.normalTitle" = "저장";
+
+/* Class = "UIButton"; normalTitle = "Choose A Beat"; ObjectID = "bcb-7n-RkV"; */
+"bcb-7n-RkV.normalTitle" = "비트를 선택하세요";
+
+/* Class = "UIBarButtonItem"; title = "SAVE"; ObjectID = "CWL-6j-zLd"; */
+"CWL-6j-zLd.title" = "저장";
+
+/* Class = "UIBarButtonItem"; title = "Choose Lyrics"; ObjectID = "FIC-VR-U5t"; */
+"FIC-VR-U5t.title" = "가사 선택하기";
+
+/* Class = "UIButton"; normalTitle = "Re-record Your Vocals"; ObjectID = "gj7-zb-AtO"; */
+"gj7-zb-AtO.normalTitle" = "Re-record Your Vocals";
+
+/* Class = "UILabel"; text = "PRESS TO RECORD"; ObjectID = "jxs-V9-1I9"; */
+"jxs-V9-1I9.text" = "녹화하려면 누르세요";
+
+/* Class = "UIButton"; normalTitle = "Delete Your Song"; ObjectID = "K2d-uL-EAy"; */
+"K2d-uL-EAy.normalTitle" = "Delete Your Song";
+
+/* Class = "UIBarButtonItem"; title = "CLOSE"; ObjectID = "lDI-EA-3iF"; */
+"lDI-EA-3iF.title" = "닫기";
+
+/* Class = "UILabel"; text = "Lyric Pad"; ObjectID = "Mhp-sZ-1ZK"; */
+"Mhp-sZ-1ZK.text" = "가사 패드";
+
+/* Class = "UILabel"; text = "Adjust Your Vocal Volume"; ObjectID = "MMK-Gk-UA7"; */
+"MMK-Gk-UA7.text" = "음성 볼륨을 조절하세요";
+
+/* Class = "UIButton"; normalTitle = "Options"; ObjectID = "Mtr-Ot-Ltj"; */
+"Mtr-Ot-Ltj.normalTitle" = "옵션";
+
+/* Class = "UIButton"; normalTitle = "Add Another Track"; ObjectID = "pTe-bw-yGT"; */
+"pTe-bw-yGT.normalTitle" = "Add Another Track";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R1u-0c-YBq"; */
+"R1u-0c-YBq.text" = "Label";
+
+/* Class = "UILabel"; text = "Monitor"; ObjectID = "tim-F9-AKp"; */
+"tim-F9-AKp.text" = "모니터";
+
+/* Class = "UINavigationItem"; title = "STUDIO"; ObjectID = "u1R-zt-fji"; */
+"u1R-zt-fji.title" = "사진관";
+
+/* Class = "UILabel"; text = "Record-Video"; ObjectID = "uFo-oW-DZw"; */
+"uFo-oW-DZw.text" = "녹화 비디오";
+
+/* Class = "UIButton"; normalTitle = "Record A Video"; ObjectID = "V01-eX-OHM"; */
+"V01-eX-OHM.normalTitle" = "Record A Video";
+
+/* Class = "UIButton"; normalTitle = "Preview | Edit | Save"; ObjectID = "Vgd-o0-Rmz"; */
+"Vgd-o0-Rmz.normalTitle" = "Preview | Edit | Save";
+
+/* Class = "UILabel"; text = "0:0"; ObjectID = "Zfx-rd-1OP"; */
+"Zfx-rd-1OP.text" = "0:0";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Zmm-GC-ZjY"; */
+"Zmm-GC-ZjY.title" = "";
+

@@ -1,0 +1,27 @@
+/* Class = "UILabel"; text = "NOYDB"; ObjectID = "1Fz-la-Snd"; */
+"1Fz-la-Snd.text" = "NOYDB";
+
+/* Class = "UIButton"; normalTitle = "VIDEO SUBMISSIONS"; ObjectID = "7b3-9x-0Ur"; */
+"7b3-9x-0Ur.normalTitle" = "VIDEO SUBMISSIONS";
+
+/* Class = "UILabel"; text = "BY "; ObjectID = "8y5-bu-UZG"; */
+"8y5-bu-UZG.text" = "게시자";
+
+/* Class = "UILabel"; text = "#Cre8tor"; ObjectID = "A4u-p9-are"; */
+"A4u-p9-are.text" = "#Cre8tor";
+
+/* Class = "UIButton"; normalTitle = "SONG SUBMISSIONS"; ObjectID = "fZs-lS-a6m"; */
+"fZs-lS-a6m.normalTitle" = "SONG SUBMISSIONS";
+
+/* Class = "UILabel"; text = "No active contests are available!"; ObjectID = "hya-c3-HZ2"; */
+"hya-c3-HZ2.text" = "No active contests are available!";
+
+/* Class = "UILabel"; text = "PROD BY "; ObjectID = "nBz-m5-1UB"; */
+"nBz-m5-1UB.text" = "제작자";
+
+/* Class = "UILabel"; text = "NICO"; ObjectID = "VPB-jQ-Yud"; */
+"VPB-jQ-Yud.text" = "NICO";
+
+/* Class = "UILabel"; text = "Song Title"; ObjectID = "zzv-kV-1gY"; */
+"zzv-kV-1gY.text" = "Song Title";
+

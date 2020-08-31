@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Slide" id="uMj-G5-jnP" customClass="HomeSlideCollectionViewCell" customModule="RecordGram" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="211"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="211"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gradientButtonBG" translatesAutoresizingMaskIntoConstraints="NO" id="ebA-cG-g0D">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="211"/>
+                    </imageView>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="MLk-5Q-umJ">
+                        <rect key="frame" x="152" y="69" width="71.5" height="74.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fxM-wM-wlC">
+                                <rect key="frame" x="14.5" y="0.0" width="42.5" height="19.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="15E-nb-phw">
+                                <rect key="frame" x="0.0" y="19.5" width="71.5" height="33.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="50d-1v-on4">
+                                <rect key="frame" x="14" y="53" width="44" height="21.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                    </stackView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="ebA-cG-g0D" firstAttribute="leading" secondItem="uMj-G5-jnP" secondAttribute="leading" id="80h-LV-c33"/>
+                <constraint firstAttribute="bottom" secondItem="ebA-cG-g0D" secondAttribute="bottom" id="TiU-kx-wO9"/>
+                <constraint firstAttribute="trailing" secondItem="ebA-cG-g0D" secondAttribute="trailing" id="jdM-vR-yaC"/>
+                <constraint firstItem="ebA-cG-g0D" firstAttribute="top" secondItem="uMj-G5-jnP" secondAttribute="top" id="pcv-WO-PUO"/>
+                <constraint firstItem="MLk-5Q-umJ" firstAttribute="centerY" secondItem="uMj-G5-jnP" secondAttribute="centerY" id="rjR-V4-fVC"/>
+                <constraint firstItem="MLk-5Q-umJ" firstAttribute="centerX" secondItem="uMj-G5-jnP" secondAttribute="centerX" id="vRt-26-tGR"/>
+            </constraints>
+            <size key="customSize" width="375" height="211"/>
+            <connections>
+                <outlet property="backgroundImage" destination="ebA-cG-g0D" id="SiE-Kd-juc"/>
+                <outlet property="contestNameLabel" destination="fxM-wM-wlC" id="9TP-tc-qmP"/>
+                <outlet property="dateLabel" destination="50d-1v-on4" id="62A-Rb-nEF"/>
+                <outlet property="hashTagLabel" destination="15E-nb-phw" id="GDB-vk-AMY"/>
+                <outlet property="labelStack" destination="MLk-5Q-umJ" id="khj-4o-v2f"/>
+            </connections>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="gradientButtonBG" width="2102" height="680"/>
+    </resources>
+</document>

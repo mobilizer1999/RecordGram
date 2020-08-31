@@ -1,0 +1,48 @@
+/* Class = "UIButton"; normalTitle = "Choose Image"; ObjectID = "3Yd-r3-sUZ"; */
+"3Yd-r3-sUZ.normalTitle" = "Choose Image";
+
+/* Class = "UIButton"; normalTitle = "Exit Camera"; ObjectID = "buC-hO-YIe"; */
+"buC-hO-YIe.normalTitle" = "Exit Camera";
+
+/* Class = "UIButton"; normalTitle = "Flip Camera"; ObjectID = "dyF-dY-7Ju"; */
+"dyF-dY-7Ju.normalTitle" = "Flip Camera";
+
+/* Class = "UIButton"; normalTitle = "Continue Shooting"; ObjectID = "Ecb-oj-f2o"; */
+"Ecb-oj-f2o.normalTitle" = "Continue Shooting";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "EyL-k7-gvE"; */
+"EyL-k7-gvE.text" = "Public";
+
+/* Class = "UILabel"; text = "Swipe to switch filters"; ObjectID = "EZa-hn-N9q"; */
+"EZa-hn-N9q.text" = "Swipe to switch filters";
+
+/* Class = "UILabel"; text = "Hands-Free"; ObjectID = "fba-kZ-4fd"; */
+"fba-kZ-4fd.text" = "ハンズフリー";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Fo2-Qc-RDN"; */
+"Fo2-Qc-RDN.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Normal"; ObjectID = "Gpz-6E-M9B"; */
+"Gpz-6E-M9B.normalTitle" = "ノーマル";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "hRG-y4-yvE"; */
+"hRG-y4-yvE.text" = "ノーマル";
+
+/* Class = "UILabel"; text = "@ # tags allowed. Max 150 characters"; ObjectID = "i42-xz-3aM"; */
+"i42-xz-3aM.text" = "@ # 許可されたタグ。 最大150文字";
+
+/* Class = "UIButton"; normalTitle = "Start Shooting"; ObjectID = "jFi-MR-EV7"; */
+"jFi-MR-EV7.normalTitle" = "Start Shooting";
+
+/* Class = "UIButton"; normalTitle = "Re-record Your Video"; ObjectID = "KI8-gb-7YD"; */
+"KI8-gb-7YD.normalTitle" = "Re-record Your Video";
+
+/* Class = "UIButton"; normalTitle = "Slow-Motion"; ObjectID = "wHx-dI-CTd"; */
+"wHx-dI-CTd.normalTitle" = "スローモーション";
+
+/* Class = "UIButton"; normalTitle = "Fast-Motion"; ObjectID = "x7E-2Z-ScP"; */
+"x7E-2Z-ScP.normalTitle" = "リアルタイムモーション";
+
+/* Class = "UIButton"; normalTitle = "Choose a Contest"; ObjectID = "ZbK-zy-6OS"; */
+"ZbK-zy-6OS.normalTitle" = "コンテストを選択します。";
+

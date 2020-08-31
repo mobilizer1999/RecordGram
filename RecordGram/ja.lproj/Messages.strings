@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Date"; ObjectID = "AjB-E3-TzM"; */
+"AjB-E3-TzM.text" = "Date";
+
+/* Class = "UISearchBar"; placeholder = "SEARCH"; ObjectID = "MzE-bR-vR8"; */
+"MzE-bR-vR8.placeholder" = "サーチ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "N3S-7O-B4z"; */
+"N3S-7O-B4z.text" = "Name";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "sRM-XI-wVz"; */
+"sRM-XI-wVz.text" = "Message";
+
+/* Class = "UINavigationItem"; title = "INVITE"; ObjectID = "tVz-GE-xFH"; */
+"tVz-GE-xFH.title" = "招待する";
+

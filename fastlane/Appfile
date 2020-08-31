@@ -1,0 +1,8 @@
+app_identifier("com.recordgramllc.recordgram") # The bundle identifier of your app
+apple_id("erik@recordgram.com") # Your Apple email address
+
+itc_team_id("118223812") # iTunes Connect Team ID
+team_id("DGX8DZ7Y32") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

@@ -1,0 +1,24 @@
+/* Class = "UIButton"; normalTitle = "Login with Phone"; ObjectID = "bGP-bH-ncB"; */
+"bGP-bH-ncB.normalTitle" = "핸드폰으로 로그인하기";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "blV-lE-07L"; */
+"blV-lE-07L.normalTitle" = "개인정보 보호정책";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "BRD-za-Lnn"; */
+"BRD-za-Lnn.placeholder" = "사용자 이름";
+
+/* Class = "UILabel"; text = "Production Marketplace and  Recording Studio"; ObjectID = "i92-0o-sRV"; */
+"i92-0o-sRV.text" = "프로덕션 판매 시장 및 녹음실";
+
+/* Class = "UILabel"; text = "Username should be unique"; ObjectID = "NMk-yk-cah"; */
+"NMk-yk-cah.text" = "사용자 이름은 고유해야 합니다";
+
+/* Class = "UIButton"; normalTitle = "Login with Email"; ObjectID = "vhV-sg-FNU"; */
+"vhV-sg-FNU.normalTitle" = "이메일로 로그인하기";
+
+/* Class = "UILabel"; text = "Set your username"; ObjectID = "vwa-32-BzW"; */
+"vwa-32-BzW.text" = "사용자 이름을 설정하세요";
+
+/* Class = "UIButton"; normalTitle = "Set Username"; ObjectID = "yLA-dC-tBs"; */
+"yLA-dC-tBs.normalTitle" = "사용자 이름 설정하기";
+

@@ -1,0 +1,81 @@
+/* Class = "UINavigationItem"; title = "SET PASSWORD"; ObjectID = "1GJ-0B-kZo"; */
+"1GJ-0B-kZo.title" = "パスワードを設定する";
+
+/* Class = "UILabel"; text = "Blocked Users"; ObjectID = "2wO-9u-z8p"; */
+"2wO-9u-z8p.text" = "ブロックされたユーザー";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "5Wg-hz-XfX"; */
+"5Wg-hz-XfX.title" = "";
+
+/* Class = "UILabel"; text = "You can use this password to get logged in website."; ObjectID = "9nK-dF-da6"; */
+"9nK-dF-da6.text" = "あなたはCre8torのウェブサイトにログインして取得するには、このパスワードを使用することができます。";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "17c-cM-NZW"; */
+"17c-cM-NZW.headerTitle" = "";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "70j-Fx-Egi"; */
+"70j-Fx-Egi.placeholder" = "パスワードの確認";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "BK5-5Q-sNh"; */
+"BK5-5Q-sNh.text" = "Twitter";
+
+/* Class = "UINavigationItem"; title = "UPDATE STAGE NAME"; ObjectID = "bvg-Mx-t7q"; */
+"bvg-Mx-t7q.title" = "アップデートステージ名";
+
+/* Class = "UINavigationItem"; title = "BLOCKED USERS"; ObjectID = "czG-TC-UI6"; */
+"czG-TC-UI6.title" = "ブロックされたユーザー";
+
+/* Class = "UILabel"; text = "MikeLion"; ObjectID = "G36-uW-Xld"; */
+"G36-uW-Xld.text" = "MikeLion";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "GKl-Rp-SZZ"; */
+"GKl-Rp-SZZ.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "HAl-kP-fAo"; */
+"HAl-kP-fAo.placeholder" = "パスワードを入力";
+
+/* Class = "UILabel"; text = "Stage Name"; ObjectID = "hX9-6B-N7n"; */
+"hX9-6B-N7n.text" = "Stage Name";
+
+/* Class = "UILabel"; text = "UPDATE BIO"; ObjectID = "jDR-Sl-ETN"; */
+"jDR-Sl-ETN.text" = "バイオを更新";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "LT9-W4-Qq5"; */
+"LT9-W4-Qq5.headerTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "UNBLOCK"; ObjectID = "ltb-lf-Cpy"; */
+"ltb-lf-Cpy.normalTitle" = "ブロックを解除";
+
+/* Class = "UILabel"; text = "example@email.com"; ObjectID = "MHR-1C-w0D"; */
+"MHR-1C-w0D.text" = "example@email.com";
+
+/* Class = "UINavigationItem"; title = "PROFILE SETTINGS"; ObjectID = "ofn-sc-rnT"; */
+"ofn-sc-rnT.title" = "プロフィールの設定";
+
+/* Class = "UIBarButtonItem"; title = "SAVE"; ObjectID = "OsS-vt-J7l"; */
+"OsS-vt-J7l.title" = "保存する";
+
+/* Class = "UILabel"; text = "+48 500 258 357"; ObjectID = "OtD-nP-219"; */
+"OtD-nP-219.text" = "+48 500 258 357";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "pae-Kp-wOq"; */
+"pae-Kp-wOq.headerTitle" = "";
+
+/* Class = "UILabel"; text = "MikeLion"; ObjectID = "Q2g-3M-NIV"; */
+"Q2g-3M-NIV.text" = "MikeLion";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "tqL-pg-lVK"; */
+"tqL-pg-lVK.text" = "Phone";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "U8W-Ae-mvu"; */
+"U8W-Ae-mvu.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Deactivate Profile"; ObjectID = "UvI-3e-KVF"; */
+"UvI-3e-KVF.text" = "Deactivate Profile";
+
+/* Class = "UITextField"; placeholder = "Stage Name"; ObjectID = "Zak-cg-0uq"; */
+"Zak-cg-0uq.placeholder" = "Stage Name";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "zIH-Wi-PYH"; */
+"zIH-Wi-PYH.text" = "Password";
+

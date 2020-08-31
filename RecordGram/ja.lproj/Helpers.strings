@@ -1,0 +1,42 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "9pr-SL-PyB"; */
+"9pr-SL-PyB.text" = "Label";
+
+/* Class = "UILabel"; text = "RECENT SEARCH"; ObjectID = "AXO-xJ-wvy"; */
+"AXO-xJ-wvy.text" = "RECENT SEARCH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B4B-ab-FY9"; */
+"B4B-ab-FY9.text" = "Label";
+
+/* Class = "UILabel"; text = "Videos"; ObjectID = "DZ9-ju-ZDH"; */
+"DZ9-ju-ZDH.text" = "ビデオ";
+
+/* Class = "UISearchBar"; placeholder = "SEARCH"; ObjectID = "grI-Mv-luo"; */
+"grI-Mv-luo.placeholder" = "サーチ";
+
+/* Class = "UILabel"; text = "Songs"; ObjectID = "ho2-2j-3PM"; */
+"ho2-2j-3PM.text" = "歌";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "keB-5l-RBk"; */
+"keB-5l-RBk.text" = "Label";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "Lfp-xZ-yby"; */
+"Lfp-xZ-yby.text" = "音楽";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ozl-jm-gw2"; */
+"Ozl-jm-gw2.text" = "Label";
+
+/* Class = "UILabel"; text = "Producers"; ObjectID = "sBY-9y-M5v"; */
+"sBY-9y-M5v.text" = "プロデューサー";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "tN1-LH-Tuv"; */
+"tN1-LH-Tuv.text" = "User name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWm-ju-xeO"; */
+"tWm-ju-xeO.text" = "Label";
+
+/* Class = "UILabel"; text = "Users"; ObjectID = "x5e-72-e10"; */
+"x5e-72-e10.text" = "ユーザー";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zbp-43-VFD"; */
+"Zbp-43-VFD.text" = "Label";
+

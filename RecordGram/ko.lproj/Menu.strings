@@ -1,0 +1,174 @@
+/* Class = "UILabel"; text = "Invite to Join"; ObjectID = "1VX-wA-mUX"; */
+"1VX-wA-mUX.text" = "Invite to Join";
+
+/* Class = "UILabel"; text = "Global"; ObjectID = "4d8-t1-gpo"; */
+"4d8-t1-gpo.text" = "Global";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "4tt-HM-QdR"; */
+"4tt-HM-QdR.text" = "Upload";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7eB-rc-BrC"; */
+"7eB-rc-BrC.text" = "Title";
+
+/* Class = "UILabel"; text = "Please Enter Affiliate Code"; ObjectID = "8M3-NP-pZ4"; */
+"8M3-NP-pZ4.text" = "제휴 코드를 입력하세요";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "80P-tv-L0j"; */
+"80P-tv-L0j.text" = "Comment";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "88H-dz-UBT"; */
+"88H-dz-UBT.normalTitle" = "취소";
+
+/* Class = "UILabel"; text = " started following you."; ObjectID = "b8T-2y-ys3"; */
+"b8T-2y-ys3.text" = "started following you.";
+
+/* Class = "UILabel"; text = "Song"; ObjectID = "bFK-SI-bEw"; */
+"bFK-SI-bEw.text" = "Song";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "bro-TD-09z"; */
+"bro-TD-09z.text" = "Like";
+
+/* Class = "UILabel"; text = "Find Your Friends"; ObjectID = "BVe-CP-YRZ"; */
+"BVe-CP-YRZ.text" = "Find Your Friends";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "bvK-32-bq8"; */
+"bvK-32-bq8.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Mention"; ObjectID = "DpV-fL-kiM"; */
+"DpV-fL-kiM.text" = "Mention";
+
+/* Class = "UILabel"; text = "All Notifications"; ObjectID = "EAY-5g-B12"; */
+"EAY-5g-B12.text" = "All Notifications";
+
+/* Class = "UILabel"; text = "Invisible to Other Users"; ObjectID = "f5I-Tc-4EQ"; */
+"f5I-Tc-4EQ.text" = "Invisible to Other Users";
+
+/* Class = "UILabel"; text = "Beat"; ObjectID = "fk0-Sv-noq"; */
+"fk0-Sv-noq.text" = "Beat";
+
+/* Class = "UILabel"; text = "Message From Cre8tor:"; ObjectID = "Fln-PD-tvM"; */
+"Fln-PD-tvM.text" = "Message From Cre8tor:";
+
+/* Class = "UINavigationItem"; title = "PHONE CONTACTS"; ObjectID = "FRY-O3-iyF"; */
+"FRY-O3-iyF.title" = "PHONE CONTACTS";
+
+/* Class = "UISearchBar"; placeholder = "SEARCH"; ObjectID = "Fy6-CT-MT0"; */
+"Fy6-CT-MT0.placeholder" = "검색";
+
+/* Class = "UILabel"; text = "Find and Follow Facebook Friends"; ObjectID = "h1d-Pb-g6P"; */
+"h1d-Pb-g6P.text" = "Find and Follow Facebook Friends";
+
+/* Class = "UILabel"; text = "Grow Your Friend Circle"; ObjectID = "hn2-dK-cj9"; */
+"hn2-dK-cj9.text" = "Grow Your Friend Circle";
+
+/* Class = "UIBarButtonItem"; title = "Invite"; ObjectID = "hp2-Av-rlY"; */
+"hp2-Av-rlY.title" = "초대";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "hpL-ft-uwh"; */
+"hpL-ft-uwh.text" = "Comment";
+
+/* Class = "UILabel"; text = "MAJOR CONTEST ALERT! ATTENTION LATIN ARTISTS! WINNER PERFORMS AT CALLE OCHO 2018!"; ObjectID = "HWp-oG-5Vm"; */
+"HWp-oG-5Vm.text" = "MAJOR CONTEST ALERT! ATTENTION LATIN ARTISTS! WINNER PERFORMS AT CALLE OCHO 2018!";
+
+/* Class = "UILabel"; text = "Cre8tor"; ObjectID = "i4x-YC-FEA"; */
+"i4x-YC-FEA.text" = "Cre8tor";
+
+/* Class = "UILabel"; text = "Find and Follow Facebook Friends"; ObjectID = "iH4-9O-cMS"; */
+"iH4-9O-cMS.text" = "Find and Follow Facebook Friends";
+
+/* Class = "UILabel"; text = "Comment Mention"; ObjectID = "iMQ-7O-rih"; */
+"iMQ-7O-rih.text" = "Comment Mention";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "IpT-VT-94i"; */
+"IpT-VT-94i.text" = "Like";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "J9f-1p-B5I"; */
+"J9f-1p-B5I.text" = "Comment";
+
+/* Class = "UILabel"; text = "27 days"; ObjectID = "JKP-zr-ffA"; */
+"JKP-zr-ffA.text" = "27 days";
+
+/* Class = "UILabel"; text = "Phone Contacts"; ObjectID = "jm7-sg-ijd"; */
+"jm7-sg-ijd.text" = "Phone Contacts";
+
+/* Class = "UIButton"; normalTitle = "user"; ObjectID = "Kln-Rd-IQS"; */
+"Kln-Rd-IQS.normalTitle" = "user";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "MD8-O2-Xt7"; */
+"MD8-O2-Xt7.text" = "User";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "mWL-pS-U3y"; */
+"mWL-pS-U3y.text" = "Upload";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "nF0-Xs-G08"; */
+"nF0-Xs-G08.normalTitle" = "업데이트";
+
+/* Class = "UIButton"; normalTitle = "v"; ObjectID = "NuO-r6-aNU"; */
+"NuO-r6-aNU.normalTitle" = "v";
+
+/* Class = "UITextField"; text = "Affiliate Code"; ObjectID = "OCt-Q2-XYZ"; */
+"OCt-Q2-XYZ.text" = "제휴 코드";
+
+/* Class = "UILabel"; text = "Mention"; ObjectID = "Omc-O3-y2V"; */
+"Omc-O3-y2V.text" = "Mention";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QIw-VL-lKI"; */
+"QIw-VL-lKI.text" = "Label";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "Qnn-WL-lDm"; */
+"Qnn-WL-lDm.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "QyC-Eg-St6"; */
+"QyC-Eg-St6.text" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "RPo-6d-Ss1"; */
+"RPo-6d-Ss1.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Follow"; ObjectID = "RPQ-f3-Mi0"; */
+"RPQ-f3-Mi0.text" = "팔로우";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "Rsj-Mv-o4V"; */
+"Rsj-Mv-o4V.text" = "Video";
+
+/* Class = "UILabel"; text = "How to Videos"; ObjectID = "rSp-6A-fna"; */
+"rSp-6A-fna.text" = "영상 사용법";
+
+/* Class = "UIButton"; selectedTitle = "Unfollow"; ObjectID = "sts-Oh-na1"; */
+"sts-Oh-na1.selectedTitle" = "팔로우 해제";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "SuE-H9-rw0"; */
+"SuE-H9-rw0.text" = "Twitter";
+
+/* Class = "UILabel"; text = "Invite or Follow Your Contacts"; ObjectID = "T9k-vg-kZw"; */
+"T9k-vg-kZw.text" = "Invite or Follow Your Contacts";
+
+/* Class = "UILabel"; text = "Grow your friend circle by finding and following your friends!"; ObjectID = "teM-wz-Jrl"; */
+"teM-wz-Jrl.text" = "Grow your friend circle by finding and following your friends!";
+
+/* Class = "UISegmentedControl"; twt-TQ-wO4.segmentTitles[0] = "Invite"; ObjectID = "twt-TQ-wO4"; */
+"twt-TQ-wO4.segmentTitles[0]" = "초대";
+
+/* Class = "UISegmentedControl"; twt-TQ-wO4.segmentTitles[1] = "Follow"; ObjectID = "twt-TQ-wO4"; */
+"twt-TQ-wO4.segmentTitles[1]" = "팔로우";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "U3f-JP-Mpe"; */
+"U3f-JP-Mpe.text" = "Like";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "uPj-TH-oPk"; */
+"uPj-TH-oPk.text" = "메시지";
+
+/* Class = "UILabel"; text = "27 days"; ObjectID = "wID-AW-c8N"; */
+"wID-AW-c8N.text" = "27 days";
+
+/* Class = "UILabel"; text = "Notify me on new message"; ObjectID = "Xbk-Lt-sJp"; */
+"Xbk-Lt-sJp.text" = "Notify me on new message";
+
+/* Class = "UILabel"; text = "Comment Mention"; ObjectID = "xLE-j9-ccv"; */
+"xLE-j9-ccv.text" = "Comment Mention";
+
+/* Class = "UILabel"; text = "Invite or Follow Your Contacts"; ObjectID = "zCP-i0-CK9"; */
+"zCP-i0-CK9.text" = "Invite or Follow Your Contacts";
+
+/* Class = "UILabel"; text = "Invite Facebook Friends"; ObjectID = "ZOz-Yy-DtC"; */
+"ZOz-Yy-DtC.text" = "Invite Facebook Friends";
+

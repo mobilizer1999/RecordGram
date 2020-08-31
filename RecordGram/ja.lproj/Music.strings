@@ -1,0 +1,60 @@
+/* Class = "UILabel"; text = "Cover Lovers"; ObjectID = "2NN-VT-znb"; */
+"2NN-VT-znb.text" = "Cover Lovers";
+
+/* Class = "UITextView"; text = "Producer name and description Producer name and description Producer name and description Producer name and description Producer name and description"; ObjectID = "6In-3o-Ofl"; */
+"6In-3o-Ofl.text" = "Producer name and description Producer name and description Producer name and description Producer name and description Producer name and description";
+
+/* Class = "UILabel"; text = "GENRES"; ObjectID = "6xv-hn-mD1"; */
+"6xv-hn-mD1.text" = "ジャンル";
+
+/* Class = "UINavigationItem"; title = "MUSIC"; ObjectID = "91j-XK-Ls3"; */
+"91j-XK-Ls3.title" = "音楽";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYR-Nh-ibH"; */
+"dYR-Nh-ibH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "eHo-5c-aW8"; */
+"eHo-5c-aW8.normalTitle" = "フォローする";
+
+/* Class = "UIButton"; normalTitle = "500 COINS"; ObjectID = "FAQ-jM-nv6"; */
+"FAQ-jM-nv6.normalTitle" = "500 COINS";
+
+/* Class = "UIButton"; normalTitle = "SEARCH BY PRODUCER >"; ObjectID = "fCd-NC-wRx"; */
+"fCd-NC-wRx.normalTitle" = "プロデューサーで検索 >";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i7M-tf-c1e"; */
+"i7M-tf-c1e.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JaO-Jh-2tz"; */
+"JaO-Jh-2tz.text" = "Label";
+
+/* Class = "UILabel"; text = "WHAT’S HOT"; ObjectID = "llj-Tf-tjY"; */
+"llj-Tf-tjY.text" = "何が流行っていますか";
+
+/* Class = "UILabel"; text = "11."; ObjectID = "ojG-s0-yR3"; */
+"ojG-s0-yR3.text" = "11.";
+
+/* Class = "UILabel"; text = "R&B"; ObjectID = "olc-Z4-7or"; */
+"olc-Z4-7or.text" = "R&B";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "osx-Ec-gfd"; */
+"osx-Ec-gfd.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "stK-8h-Hoa"; */
+"stK-8h-Hoa.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "333 coins"; ObjectID = "veO-Ww-dvl"; */
+"veO-Ww-dvl.normalTitle" = "333 coins";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w3U-rt-MNN"; */
+"w3U-rt-MNN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "500 COINS"; ObjectID = "W12-qc-E4Z"; */
+"W12-qc-E4Z.normalTitle" = "500 COINS";
+
+/* Class = "UILabel"; text = "Passionfruit by Drake"; ObjectID = "Z4w-xO-Sb0"; */
+"Z4w-xO-Sb0.text" = "Passionfruit by Drake";
+
+/* Class = "UILabel"; text = "3:33"; ObjectID = "zcH-40-jlh"; */
+"zcH-40-jlh.text" = "3:33";
+
